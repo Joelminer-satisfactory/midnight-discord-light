@@ -42,7 +42,7 @@
 
 	/* text colors */
 	--text-0: #d1cbbf; /* text on colored elements */
-	--text-1: #13100b; /* other normally white text */
+	--text-1: #ffffff; /* other normally white text */
 	--text-2: #1a160f; /* headings and important text */
 	--text-3: #13100b; /* normal text */
 	--text-4: #6c5b3d; /* icon buttons and channels */
